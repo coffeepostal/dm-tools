@@ -1,0 +1,89 @@
+{
+  "curses": {
+    "dice": "d4",
+    "creator": "Dyson Logos",
+    "url": "https://dysonlogos.blog/201/2/2/random-thursday-random-curses/",
+    "data": {
+      "0": {
+        "text": "Feeble Curse",
+        "args": {
+          "dice": "d12",
+          "data": {
+            "0": "Hair falls out",
+            "1": "Next reaction roll is at a +2 penalty",
+            "2": "-4 penalty on your next saving throw",
+            "3": "Lose one prepared spell",
+            "4": "Itchiness means you suffer -2 on attack rolls while wearing armour",
+            "5": "Miss next attack",
+            "6": "Next spell cast will fail",
+            "7": "Roll 1d20 under Dex whenever trying to run to avoid falling",
+            "8": "Become convinced that one minor item is a very important magic item and will not part with it",
+            "9": "Gradually change race to a random race (no game effects, just cosmetic)",
+            "10": "Automatically surprised next combat",
+            "11": "Reduce movement speed by half"
+          }
+        }
+      },
+      "1": {
+        "text": "Minor Curse",
+        "args": {
+          "dice": "d12",
+          "data": {
+            "0": "-3 penalty on all saving throws",
+            "1": "-4 on all attack rolls",
+            "2": "Prime requisite is reduced by half",
+            "3": "+2 penalty on all reaction rolls",
+            "4": "50% chance to be unable to act each combat round",
+            "5": "+/- 1 on all rolls (whatever makes it worse)",
+            "6": "Drop whatever you are holding whenever you roll the minimum result on any die",
+            "7": "Must always tell the truth",
+            "8": "Must never tell the truth",
+            "9": "Double normal chance of wandering monsters",
+            "10": "50% chance that each spell cast will have an unwanted effect (wrong target, opposite effect, whatever works)",
+            "11": "-2 damage per die on all attacks and spells"
+          }
+        }
+      },
+      "2": {
+        "text": "Major Curse",
+        "args": {
+          "dice": "d12",
+          "data": {
+            "0": "Polymorph into a frog or other harmless animal",
+            "1": "Wandering monster of the target’s level appears in proximity and attacks",
+            "2": "One magic item disappears",
+            "3": "Lose one level (as if struck by a wight)",
+            "4": "Re-roll your prime requisite",
+            "5": "Wounds take twice as long to heal, healing spells are only half as effective",
+            "6": "+/- 3 on all rolls (whatever makes it worse)",
+            "7": "Cannot sleep – therefore cannot heal naturally, nor prepare spells",
+            "8": "Lose all spellcasting ability",
+            "9": "Double vision – all targets are treated as having the benefit of displacement",
+            "10": "Save versus death, or die!",
+            "11": "Struck deaf, blind and mute"
+          }
+        }
+      },
+      "3": {
+        "text": "Holy Crap Curse",
+        "args": {
+          "dice": "d12",
+          "data": {
+            "0": "Every time you kill a target, save versus death or join him and die",
+            "1": "Battle Death for your soul",
+            "2": "Automatically fail all saving throws",
+            "3": "+/- 6 on all rolls (whatever makes it worse)",
+            "4": "Lose d4+1 levels",
+            "5": "Can not wear armour or clothing or use weapons or any devices",
+            "6": "Can only breathe in water, or only breathe air for aquatic targets",
+            "7": "Triple damage received from all sources",
+            "8": "Character ages 1d6 years per combat round",
+            "9": "All valuables owned by the character are turned to lead and paste",
+            "10": "d6+1 companions or friends & family are subjected to Major Curses (above)",
+            "11": "Target rolls for additional curses (starting with level of curse) 6 times"
+          }
+        }
+      }
+    }
+  }
+}
