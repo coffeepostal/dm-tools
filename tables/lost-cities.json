@@ -5,78 +5,78 @@
     "url": "https://dysonlogos.blog/2011/04/14/random-thursday-lost-cities-of-the-fallen-empire/",
     "data": {
       "location": {
-        "01": {
+        "0": {
           "text": "Far out in a natural desert, half buried in sand."
         },
-        "02": {
+        "1": {
           "text": "In a wasteland created by the forces of chaos that destroyed the city."
         },
-        "03": {
+        "2": {
           "text": "In a pocket dimension, cut off from the rest of the world and connected by a single magical portal."
         },
-        "04": {
+        "3": {
           "text": "On a quiet bit of coast where the cliff face strikes straight down into the sea."
         },
-        "05": {
+        "4": {
           "text": "ReliDeep in the jungle, part overgrown, and part sunken.gious"
         },
-        "06": {
+        "5": {
           "text": "In an ancient forest, with massive trees grown in and around the old structures."
         },
-        "07": {
+        "6": {
           "text": "In a high mountain pass, once part of a trade route that is no longer in use."
         },
-        "08": {
+        "7": {
           "text": "Underground – dug in to and expanding upon an ancient set mines."
         },
-        "09": {
+        "8": {
           "text": "In a depression that grew into a great lake, only a few of the tallest buildings show their tops above the water."
         },
-        "10": {
+        "9": {
           "text": "Buried in the mud and muck of a swamp."
         },
-        "11": {
+        "10": {
           "text": "In a small valley, forgotten by all but the nearby farmers who steal stones from the ruins for their fences and homes."
         },
-        "12": {
+        "11": {
           "text": "On an island that seems to contain nothing but the ancient city."
         }
       },
       "distinguishing characteristic": {
-        "01": {
+        "0": {
           "text": "City is dominated by many tall towers interconnected by spanning bridges and arches."
         },
-        "02": {
+        "1": {
           "text": "Massive city wall is the only piece of the city that seems to have survived the ages almost untouched, the rest is almost completely destroyed."
         },
-        "03": {
+        "2": {
           "text": "At one point the city used a network of canals for transportation and communication. Now they are probably filled in with sand, mud, or even the raw stuff of chaos, depending on where the city is."
         },
-        "04": {
+        "3": {
           "text": "A religious city, the temple or temples are immediately visible among the remaining structures and seem to be the focus of the ruins."
         },
-        "05": {
+        "4": {
           "text": "Strange statuary is everywhere – massive busts, ornate dragons, monolithic knights in armour and so on."
         },
-        "06": {
+        "5": {
           "text": "The primary structures of the city are in a strange stone, different in colour from the rest of the area (basalt, strange blue stone, green marble, etc)"
         },
-        "07": {
+        "6": {
           "text": "Ruins of raised walkways are the sturdiest elements of the ruins, often spanning from one set of ruins to the next, now often towering over the ruins they used to connect."
         },
-        "08": {
+        "7": {
           "text": "A city of waters. Old ornate fountains are a regular site, although most likely they don’t work anymore (although they might – a city of fountains in the middle of the desert would be quite a sight)."
         },
-        "09": {
+        "8": {
           "text": "Columns defined most buildings  – many didn’t even have walls on all sides, being open sided structures with the roof held up by stone pillars."
         },
-        "10": {
+        "9": {
           "text": "Strangely “organic” architecture with a lack of square corners – lots of rounded edges and strange blob-like buildings."
         },
-        "11": {
+        "10": {
           "text": "Very close-quarter construction left very narrow lanes as roads. Many of these are probably impassable now from collapsed buildings and environmental hazards."
         },
-        "12": {
+        "11": {
           "text": "All structures in the city “face” the same direction, with the main doors on all buildings on that facing."
         }
       }

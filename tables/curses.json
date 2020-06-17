@@ -2,7 +2,7 @@
   "curses": {
     "dice": "d4",
     "creator": "Dyson Logos",
-    "url": "https://dysonlogos.blog/201/2/2/random-thursday-random-curses/",
+    "url": "https://dysonlogos.blog/2011/03/03/random-thursday-random-curses/",
     "data": {
       "0": {
         "text": "Feeble Curse",
@@ -19,8 +19,8 @@
             "7": "Roll 1d20 under Dex whenever trying to run to avoid falling",
             "8": "Become convinced that one minor item is a very important magic item and will not part with it",
             "9": "Gradually change race to a random race (no game effects, just cosmetic)",
-            "10": "Automatically surprised next combat",
-            "11": "Reduce movement speed by half"
+            "9": "Automatically surprised next combat",
+            "10": "Reduce movement speed by half"
           }
         }
       },
@@ -39,8 +39,8 @@
             "7": "Must always tell the truth",
             "8": "Must never tell the truth",
             "9": "Double normal chance of wandering monsters",
-            "10": "50% chance that each spell cast will have an unwanted effect (wrong target, opposite effect, whatever works)",
-            "11": "-2 damage per die on all attacks and spells"
+            "9": "50% chance that each spell cast will have an unwanted effect (wrong target, opposite effect, whatever works)",
+            "10": "-2 damage per die on all attacks and spells"
           }
         }
       },
@@ -59,8 +59,8 @@
             "7": "Cannot sleep – therefore cannot heal naturally, nor prepare spells",
             "8": "Lose all spellcasting ability",
             "9": "Double vision – all targets are treated as having the benefit of displacement",
-            "10": "Save versus death, or die!",
-            "11": "Struck deaf, blind and mute"
+            "9": "Save versus death, or die!",
+            "10": "Struck deaf, blind and mute"
           }
         }
       },
@@ -79,8 +79,8 @@
             "7": "Triple damage received from all sources",
             "8": "Character ages 1d6 years per combat round",
             "9": "All valuables owned by the character are turned to lead and paste",
-            "10": "d6+1 companions or friends & family are subjected to Major Curses (above)",
-            "11": "Target rolls for additional curses (starting with level of curse) 6 times"
+            "9": "d6+1 companions or friends & family are subjected to Major Curses (above)",
+            "10": "Target rolls for additional curses (starting with level of curse) 6 times"
           }
         }
       }
