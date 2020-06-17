@@ -10,6 +10,7 @@ I cannont stress this enough, our games are better because of these creators, an
 
 ### Random Tables
 
-| file                                              | credit                                                                                                                                            |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[tables/festival.json](tables/festivals.json)** | Credit: [Dyson Logos](https://dysonlogos.blog/) / [[Random Thursday] Party Time!](https://dysonlogos.blog/2011/02/17/random-thursday-party-time/) |
+| file                                                 | credit                                  | original post                                                                                                                              |
+| ---------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[tables/festival.json](tables/festivals.json)**    | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] Party Time!](https://dysonlogos.blog/2011/02/17/random-thursday-party-time/)                                            |
+| **[tables/lost-cities.json](tables/festivals.json)** | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] Lost Cities of the Fallen Empire](https://dysonlogos.blog/2011/04/14/random-thursday-lost-cities-of-the-fallen-empire/) |
