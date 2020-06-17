@@ -48,4 +48,3 @@ I cannont stress this enough, our games are better because of these creators, an
 ### Lists
 - [ ] [Kismet’s Fantasy Name Compendium](https://docs.google.com/spreadsheets/d/1JNukIS9NThOusuWXDQvi5FHnkmd0SB9UGIG-3Jos2OQ/edit#gid=1566100264)
 - [ ] [Drow Name List](https://docs.google.com/spreadsheets/d/1pa3B4ctEyodg9ea9QyLjnfKuJos_KL9vZqF1Rd7cPQg/edit#gid=1114928340)
-- [ ]
