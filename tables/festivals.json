@@ -1,0 +1,65 @@
+{
+    "festivals": {
+        "dice": "d12",
+        "creator": "Dyson Logos",
+        "url": "https://dysonlogos.blog/2011/02/17/random-thursday-party-time/",
+        "data": {
+            "01": {
+                "text": "Celebrating the anniversary of the end of a war.",
+                "args": {}
+            },
+            "02": {
+                "text": "Religious celebration",
+                "args": {
+                    "dice": "d4",
+                    "data": {
+                        "01": "Anniversary of the arrival of a great saint or religious leader.",
+                        "02": "Traditional celebration of blessings.",
+                        "03": "Day of purification.",
+                        "04": "Anniversary of the birth of a great saint or religious leader."
+                    }
+                }
+            },
+            "03": {
+                "text": "Agricultural fair – showing off animals and foodstuffs.",
+                "args": {}
+            },
+            "04": {
+                "text": "The Great Fast – a day or week when all the inhabitants fast and are quiet and reserved.",
+                "args": {}
+            },
+            "05": {
+                "text": "Celebration of the beginning of the local calendar year.",
+                "args": {}
+            },
+            "06": {
+                "text": "Celebration of the anniversary of a great heroic deed.",
+                "args": {}
+            },
+            "07": {
+                "text": "Spontaneous celebration of an important marriage.",
+                "args": {}
+            },
+            "08": {
+                "text": "Trade festival.",
+                "args": {}
+            },
+            "09": {
+                "text": "Party to ward off bad luck and renew the good.",
+                "args": {}
+            },
+            "10": {
+                "text": "Remembrance of a great tragedy.",
+                "args": {}
+            },
+            "11": {
+                "text": "A major funeral.",
+                "args": {}
+            },
+            "12": {
+                "text": "Contests of prowess – military, skill or magical.",
+                "args": {}
+            },
+        }
+    }
+}
