@@ -10,8 +10,9 @@ I cannont stress this enough, our games are better because of these creators, an
 
 ### Random Tables
 
-| file                                                 | credit                                  | original post                                                                                                                              |
-| ---------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **[tables/festival.json](tables/festivals.json)**    | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] Party Time!](https://dysonlogos.blog/2011/02/17/random-thursday-party-time/)                                            |
-| **[tables/lost-cities.json](tables/festivals.json)** | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] Lost Cities of the Fallen Empire](https://dysonlogos.blog/2011/04/14/random-thursday-lost-cities-of-the-fallen-empire/) |
-| **[tables/curses.json](tables/festivals.json)**      | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] Random Curses](https://dysonlogos.blog/2011/03/03/random-thursday-random-curses/)                                       |
+| file                                                   | credit                                  | original post                                                                                                                              |
+| ------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[tables/beggers.json](tables/beggers.json)**         | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] The City of Beggars](https://dysonlogos.blog/2011/02/10/random-thursday-the-city-of-beggars/)                           |
+| **[tables/curses.json](tables/curses.json)**           | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] Random Curses](https://dysonlogos.blog/2011/03/03/random-thursday-random-curses/)                                       |
+| **[tables/festival.json](tables/festivals.json)**      | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] Party Time!](https://dysonlogos.blog/2011/02/17/random-thursday-party-time/)                                            |
+| **[tables/lost-cities.json](tables/lost-cities.json)** | [Dyson Logos](https://dysonlogos.blog/) | [[Random Thursday] Lost Cities of the Fallen Empire](https://dysonlogos.blog/2011/04/14/random-thursday-lost-cities-of-the-fallen-empire/) |

@@ -1,0 +1,333 @@
+{
+  "beggers": {
+    "dice": "d12",
+    "creator": "Dyson Logos",
+    "url": "https://dysonlogos.blog/2011/02/10/random-thursday-the-city-of-beggars/",
+    "data": {
+      "regular beggers": {
+        "0": {
+          "text": "Naturally blind"
+        },
+        "1": {
+          "text": "Blinded by torture or injury"
+        },
+        "2": {
+          "text": "Broken limbs"
+        },
+        "3": {
+          "text": "Missing limbs"
+        },
+        "4": {
+          "text": "Badly burned by magic"
+        },
+        "5": {
+          "text": "Cursed or Geased (enchanted) to beg"
+        },
+        "6": {
+          "text": "Toothless"
+        },
+        "7": {
+          "text": "Buried under layers upon layers of rotten clothing"
+        },
+        "8": {
+          "text": "Inebriated nearly beyond comprehension"
+        },
+        "9": {
+          "text": "Touched by the gods"
+        },
+        "10": {
+          "text": "One eyed"
+        },
+        "11": {
+          "text": "Bizarre Beggar",
+          "args": {
+            "dice": "d12",
+            "data": {
+              "0": {
+                "text": "Monster race not normally seen in civilized company (eg: ettin beggar)",
+                "args": {
+                  "dice": "d10",
+                  "data": {
+                    "0": {
+                      "text": "Naturally blind"
+                    },
+                    "1": {
+                      "text": "Blinded by torture or injury"
+                    },
+                    "2": {
+                      "text": "Broken limbs"
+                    },
+                    "3": {
+                      "text": "Missing limbs"
+                    },
+                    "4": {
+                      "text": "Badly burned by magic"
+                    },
+                    "5": {
+                      "text": "Cursed or Geased (enchanted) to beg"
+                    },
+                    "6": {
+                      "text": "Toothless"
+                    },
+                    "7": {
+                      "text": "Buried under layers upon layers of rotten clothing"
+                    },
+                    "8": {
+                      "text": "Inebriated nearly beyond comprehension"
+                    },
+                    "9": {
+                      "text": "Touched by the gods"
+                    }
+                  }
+                }
+              },
+              "1": {
+                "text": "Has green slime in a box that he needs to keep fed",
+                "args": {
+                  "dice": "d10",
+                  "data": {
+                    "0": {
+                      "text": "Naturally blind"
+                    },
+                    "1": {
+                      "text": "Blinded by torture or injury"
+                    },
+                    "2": {
+                      "text": "Broken limbs"
+                    },
+                    "3": {
+                      "text": "Missing limbs"
+                    },
+                    "4": {
+                      "text": "Badly burned by magic"
+                    },
+                    "5": {
+                      "text": "Cursed or Geased (enchanted) to beg"
+                    },
+                    "6": {
+                      "text": "Toothless"
+                    },
+                    "7": {
+                      "text": "Buried under layers upon layers of rotten clothing"
+                    },
+                    "8": {
+                      "text": "Inebriated nearly beyond comprehension"
+                    },
+                    "9": {
+                      "text": "Touched by the gods"
+                    }
+                  }
+                }
+              },
+              "2": {
+                "text": "Wears a beat up crown and once-expensive rags and claims to be the king of the beggars."
+              },
+              "3": {
+                "text": "Has partially mutated into a puddle of goo",
+                "args": {
+                  "dice": "d10",
+                  "data": {
+                    "0": {
+                      "text": "Naturally blind"
+                    },
+                    "1": {
+                      "text": "Blinded by torture or injury"
+                    },
+                    "2": {
+                      "text": "Broken limbs"
+                    },
+                    "3": {
+                      "text": "Missing limbs"
+                    },
+                    "4": {
+                      "text": "Badly burned by magic"
+                    },
+                    "5": {
+                      "text": "Cursed or Geased (enchanted) to beg"
+                    },
+                    "6": {
+                      "text": "Toothless"
+                    },
+                    "7": {
+                      "text": "Buried under layers upon layers of rotten clothing"
+                    },
+                    "8": {
+                      "text": "Inebriated nearly beyond comprehension"
+                    },
+                    "9": {
+                      "text": "Touched by the gods"
+                    }
+                  }
+                }
+              },
+              "4": {
+                "text": "Is a mid-level spellcaster",
+                "args": {
+                  "dice": "d10",
+                  "data": {
+                    "0": {
+                      "text": "Naturally blind"
+                    },
+                    "1": {
+                      "text": "Blinded by torture or injury"
+                    },
+                    "2": {
+                      "text": "Broken limbs"
+                    },
+                    "3": {
+                      "text": "Missing limbs"
+                    },
+                    "4": {
+                      "text": "Badly burned by magic"
+                    },
+                    "5": {
+                      "text": "Cursed or Geased (enchanted) to beg"
+                    },
+                    "6": {
+                      "text": "Toothless"
+                    },
+                    "7": {
+                      "text": "Buried under layers upon layers of rotten clothing"
+                    },
+                    "8": {
+                      "text": "Inebriated nearly beyond comprehension"
+                    },
+                    "9": {
+                      "text": "Touched by the gods"
+                    }
+                  }
+                }
+              },
+              "5": {
+                "text": "Has a dancing kobold on a leash",
+                "args": {
+                  "dice": "d10",
+                  "data": {
+                    "0": {
+                      "text": "Naturally blind"
+                    },
+                    "1": {
+                      "text": "Blinded by torture or injury"
+                    },
+                    "2": {
+                      "text": "Broken limbs"
+                    },
+                    "3": {
+                      "text": "Missing limbs"
+                    },
+                    "4": {
+                      "text": "Badly burned by magic"
+                    },
+                    "5": {
+                      "text": "Cursed or Geased (enchanted) to beg"
+                    },
+                    "6": {
+                      "text": "Toothless"
+                    },
+                    "7": {
+                      "text": "Buried under layers upon layers of rotten clothing"
+                    },
+                    "8": {
+                      "text": "Inebriated nearly beyond comprehension"
+                    },
+                    "9": {
+                      "text": "Touched by the gods"
+                    }
+                  }
+                }
+              },
+              "6": {
+                "text": "Is a dancing kobold on a leash."
+              },
+              "7": {
+                "text": "Appears to be a growth medium for strange mushrooms."
+              },
+              "8": {
+                "text": "Is undead, but no one has noticed because he still sits there begging as always",
+                "args": {
+                  "dice": "d10",
+                  "data": {
+                    "0": {
+                      "text": "Naturally blind"
+                    },
+                    "1": {
+                      "text": "Blinded by torture or injury"
+                    },
+                    "2": {
+                      "text": "Broken limbs"
+                    },
+                    "3": {
+                      "text": "Missing limbs"
+                    },
+                    "4": {
+                      "text": "Badly burned by magic"
+                    },
+                    "5": {
+                      "text": "Cursed or Geased (enchanted) to beg"
+                    },
+                    "6": {
+                      "text": "Toothless"
+                    },
+                    "7": {
+                      "text": "Buried under layers upon layers of rotten clothing"
+                    },
+                    "8": {
+                      "text": "Inebriated nearly beyond comprehension"
+                    },
+                    "9": {
+                      "text": "Touched by the gods"
+                    }
+                  }
+                }
+              },
+              "9": {
+                "text": "Wears inappropriate clothing (boots on his hands and head)"
+              },
+              "10": {
+                "text": "Scuttles through the gutters grabbing and eating insects",
+                "args": {
+                  "dice": "d10",
+                  "data": {
+                    "0": {
+                      "text": "Naturally blind"
+                    },
+                    "1": {
+                      "text": "Blinded by torture or injury"
+                    },
+                    "2": {
+                      "text": "Broken limbs"
+                    },
+                    "3": {
+                      "text": "Missing limbs"
+                    },
+                    "4": {
+                      "text": "Badly burned by magic"
+                    },
+                    "5": {
+                      "text": "Cursed or Geased (enchanted) to beg"
+                    },
+                    "6": {
+                      "text": "Toothless"
+                    },
+                    "7": {
+                      "text": "Buried under layers upon layers of rotten clothing"
+                    },
+                    "8": {
+                      "text": "Inebriated nearly beyond comprehension"
+                    },
+                    "9": {
+                      "text": "Touched by the gods"
+                    }
+                  }
+                }
+              },
+              "11": {
+                "text": "Is perfectly normal."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
